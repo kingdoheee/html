@@ -1,0 +1,52 @@
+.materialSection {
+	display: flow-root;
+	width:100%;
+	height:100%;
+	background:#ffffff;
+}
+.materialText{
+    position: relative;
+    padding-top: 11%;
+    margin:0px;
+	text-align:center;
+	font-family:"NotoSans Bold";
+	font-weight:600;
+	font-size:2.8vw;
+	color:#363636;
+}
+.meterialSubText{
+    position: relative;
+    padding-top: 2.5vw;
+    text-align: center;
+	font-family:"Montserrat";
+	font-weight:349;
+    font-size:1.3vw;
+    line-height: 150%;
+	color: #363636;
+}
+.materialImg{
+    display: block;
+    width: 25%;
+    position: relative;
+    margin-top: -21%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.slider{
+    padding-top: 10vw;
+}
+.sliderItem{
+    width: 6.6vw;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.sliderItemText{
+    padding-top: 2%;
+    text-align: center;
+	font-family:"Montserrat";
+	font-weight:600;
+    font-size:1.1vw;
+    color: #363636;
+    
+}

@@ -1,0 +1,38 @@
+.expectedImg {
+    position: relative;
+    display: block;
+	max-width:43%;
+	height:auto;
+	float: right;
+	margin-top: -18vw;
+    margin-right: 3vw;
+}
+.expectedCercle{
+	width:8vw;
+    height:8vw;
+    border-radius: 4vw;
+	background-color:#FFBD59;
+	margin-top: -7vw;
+	margin-left: 1.5vw;
+}
+.expectedText1 {
+	margin:0px;
+	text-align:left;
+	padding-top: 15vw;
+	padding-left: 4.45vw;
+	font-family:"NotoSans Bold";
+	font-weight:600;
+	font-size:2vw;
+	color:#363636;
+}
+.expectedText2 {
+	margin:0px;
+	text-align:left;
+	padding-top: 1vw;
+	padding-left: 4.5vw;
+	font-family:"Montserrat";
+	font-weight:349;
+    font-size:1.3vw;
+    line-height: 150%;
+	color: #363636;
+}

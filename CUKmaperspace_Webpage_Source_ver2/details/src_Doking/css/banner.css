@@ -1,0 +1,33 @@
+.banner-section {
+	box-sizing:border-box;
+	margin: 0vw;
+	max-width:100%;
+	height:100%;
+	position:relative;
+}
+.bannerImg {
+	max-width:100%;
+}
+.bannerText1 {
+	text-align:left;
+    margin-top: -55vw;
+    padding-left: 19vw;
+	font-family:"NotoSans Bold";
+	font-weight:850;
+	font-size:4.5vw;
+	color:white;
+}
+.bannerText2 {
+	text-align:left;
+    padding-left: 19vw;
+	font-family:"Montserrat Bold";
+	font-size:4.3vw;
+	color:white;
+}
+.bannerText3 {
+	text-align:left;
+    padding-top: 4vw;
+    padding-left:19vw;
+	font-size:2.3vw;
+	color: white;
+}

@@ -1,0 +1,45 @@
+.keywordImg {
+    max-width:100%;
+}
+.keyword-eng{
+    overflow: hidden;
+}
+.safe{
+    font-size: 3.8vw;
+    margin-bottom: 0;
+    font-weight: 500;
+    font-family:"Montserrat";
+}
+.enjoy{
+    overflow: hidden;
+    font-size:3.8vw;
+    margin :0;
+    font-weight: 500;
+    font-family:"Montserrat";
+}
+.infinite{
+    font-size: 3.8vw;
+    margin :0;
+    font-weight: 500;
+    font-family:"Montserrat";
+}
+.text-safe{
+    font-size: 3.2vw;
+    margin-bottom: 0;
+    font-weight: 110;
+    font-family:"NotoSans";
+}
+.text-enjoy{
+    font-size: 3.2vw;
+    margin :0;
+    padding-top: 0.5vw;
+    font-weight: 110;
+    font-family:"NotoSans";
+}
+.text-infinite{
+    font-size: 3.2vw;
+    margin :0;
+    padding-top: 0.5vw;
+    font-weight: 110;
+    font-family:"NotoSans";
+}

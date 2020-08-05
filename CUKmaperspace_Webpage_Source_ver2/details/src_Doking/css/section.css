@@ -1,0 +1,132 @@
+html,body {
+	margin:0vw;
+	padding:0vw;
+	height:100%;
+	width: 100%;
+}
+.section220 {
+	box-sizing: border-box;
+	display: flow-root;
+	width:70%;
+	height:220%;
+	background:white;
+}
+.section100 {
+	display: flow-root;
+	width:70%;
+	height:100%;
+	background:white;
+}
+.section50 {
+	display: flow-root;
+	width:70%;
+	height:50%;
+	background:olivedrab;
+}
+.left-aside220 {
+	width:15%;
+	height:220%;
+	float:left;
+	background:white;
+}
+.right-aside220 {
+	width:15%;
+	height:220%;
+	float:right;
+	background:white;
+}
+.left-aside100 {
+	width:15%;
+	height:100%;
+	float:left;
+	background:white;
+}
+.right-aside100 {
+	width:15%;
+	height:100%;
+	float:right;
+	background:white;
+}
+.left-aside50 {
+	width:15%;
+	height:450%;
+	float:left;
+	background:white;
+}
+.right-aside50 {
+	width:15%;
+	height:450%;
+	float:right;
+	background:white;
+}
+.keyword-grid{
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+
+}
+.keyword-section1 {
+    position: relative;
+    box-sizing: border-box;
+    margin-top: 16vw;
+    padding-top: 3.4vw;
+    padding-left: 27vw;
+    width: 50%; 
+    height: 50%;
+    float: left; 
+	background-color:rgba(255, 202, 172, 0.5);
+	line-height: 600%;
+}
+.keyword-section2 {
+    position: relative;
+    box-sizing: border-box;
+    margin-top: 16vw;
+    padding-top: 3.9vw;
+    padding-left: 3.4vw;
+    width: 50%; 
+    height: 50%; 
+    float: left;
+	background-color:rgba(255, 202, 172, 0.5);
+	line-height: 560%;
+}
+.structure-grid{
+    display: flow-root;
+    box-sizing: border-box;
+    max-width: 100%;
+    height: 100%;
+    padding-top: 7vw;
+}
+.structure-section1{
+    box-sizing: border-box;
+    width:50%;
+	height: 100%;
+	padding-top: 7vw;
+    float: left;
+    text-align: center;
+    padding-left: 0.7vw;
+}
+.structure-section2{
+    box-sizing: border-box;
+    width: 50%;
+    height: 100%;
+	padding-top: 7vw;
+    float: left;
+}
+@font-face {
+	font-family:"Montserrat";
+	font-weight:10;
+	font-style:normal;
+	src:url("../font/Montserrat-Regular.woff") format('woff');
+}
+@font-face {
+	font-family:"Montserrat Bold";
+	font-weight:10;
+	font-style:normal;
+	src:url("../font/Montserrat-Bold.woff") format('woff');
+}
+@font-face {
+	font-family:"NotoSans Bold";
+	font-weight:10;
+	font-style:normal;
+	src: url("../font/NotoSans-Bold.ttf") format("ttf");
+}
