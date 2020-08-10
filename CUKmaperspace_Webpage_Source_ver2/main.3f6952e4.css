@@ -4174,3 +4174,22 @@ textarea {
   display: table-cell;
   vertical-align: middle;
 }
+
+.sns{
+  font-size: 15px;
+}
+
+.sns-link:link{
+  color: black;
+}
+.sns-link:visited{
+  color: black;
+}
+.sns-link:hover{
+  color: lightgray;
+  font-weight: bolder;
+}
+.sns-link:active{
+  color: white;
+  font-weight: bolder;
+}
