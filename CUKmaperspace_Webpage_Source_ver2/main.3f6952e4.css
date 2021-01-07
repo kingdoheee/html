@@ -10,8 +10,6 @@ html {
 }
 body {
   margin:0;
-  overflow:hidden;
-  height: 100%;
 }
 article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section,summary {
   display:block
@@ -3789,7 +3787,9 @@ body {
 }
 body.minimal {
   border:none;
-  padding:0
+  padding:0;
+  overflow:hidden;
+  height: 100%;
 }
 .hero-full-container {
   height:100vh
